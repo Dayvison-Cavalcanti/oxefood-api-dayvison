@@ -1,5 +1,6 @@
 package br.com.ifpe.oxefood.modelo.cliente;
 
+import java.util.List;
 import java.time.LocalDate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
